@@ -1,0 +1,1 @@
+Esto se debe a que la carpeta ya no está vacía y como se mencionó en el punto anterior esto hace que git hub la detecte como un cambio.
