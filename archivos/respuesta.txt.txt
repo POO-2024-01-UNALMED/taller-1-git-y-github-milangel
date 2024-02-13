@@ -1,0 +1,1 @@
+No es posible realizar un commit en el punto anterior ya que solo crea una carpeta de archivos sin ningún elemento. Git hub no lo ve como una actualización, por lo que no permite escribir una confirmación ni realizar una inserción.
