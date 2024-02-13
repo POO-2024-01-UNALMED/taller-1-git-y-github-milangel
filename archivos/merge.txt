@@ -3,4 +3,4 @@ Edad: 20
 Aspiraciones: Espero aprender mucho para poder continuar con este hermoso proceso de aprendizaje para contribuir a la sociedad.
 Esto se debe a que la carpeta ya no está vacía y como se mencionó en el punto anterior esto hace que git hub la detecte como un cambio.
 ¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
-R/ya que se puede generar un conflicto por no tener la misma información pero el mismo nombre
+R/ya que se puede generar un conflicto por no tener la misma información pero el mismo nombre.
